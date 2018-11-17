@@ -1,0 +1,95 @@
+#link2 {
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: rgb(151, 248, 216);
+}
+#header1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: orangered;
+    background-image: url(img/fonshtml.jpg)
+}
+#testudios {
+    border: 5px solid orangered;
+    text-align: center;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#object1 {
+    text-align: center;
+}
+#div1 {
+    background-color: rgba(48, 233, 42, 0.404);
+    margin: 10px;
+}
+#hr1 {
+    color: rgb(245, 164, 72);
+    border: 3px inset blue;
+}
+p.link {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+p.p1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+#h1table {
+    color: orangered;
+    text-align: center;
+}
+#ptable {
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+img.img1 {
+    height: 10cm;
+    width: 9cm;
+    float: left
+}
+table.table1 {
+    text-align: center;
+    border-color: rgb(107, 211, 130);
+    margin: 20%;
+    padding: 2px;
+    
+}
+#p4 {
+    text-align: center;
+    color: orangered;
+}
+#div3 {
+    background-color: rgba(48, 233, 42, 0.404);;
+    margin: 50px;
+    padding: 1%;
+}
+#desc{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    text-align: center;
+}
+#div2 {
+    float: right;
+}
+#piepag {
+    color: brown;
+    text-align: left;
+
+}
+#sorry {
+    border: red 3px solid;
+    background-color: pink;
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+    color: red;
+}
+#desc1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
